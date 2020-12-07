@@ -1,5 +1,4 @@
 import React from "react";
-
 import classes from "./Modal.css";
 import Aux from "../../../hoc/Auxi";
 import Backdrop from "../Backdrop/Backdrop";
@@ -19,3 +18,5 @@ const modal = (props) => (
 );
 
 export default modal;
+// add where we wanna show it...burgerbuider
+// -100vh ,,,viewport height will slide it of screen
